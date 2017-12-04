@@ -84,7 +84,7 @@ Honey 是一家成立於2012年的美國新創公司，核心價值是「幫所�
 ## 申請方式 & 基本流程
 
 1. 請將履歷寄至：tiwen@joinhoney.com, 標題 [RESUME] {YOUR_NAME_HERE}.
-2. 我們會主動聯繫你，並約時間進行_一小時的電話面試_。
+2. 我們會主動聯繫你，並約時間進行 _一小時的電話面試_。
 3. _Take Home Project_：需要約2~4小時完成。
 4. _Onsite Interview_: 需要時間4個小時，會跟現有團隊聊天，主要是Culture Fit相關的問題。
 5. 兩個工作天內會決定是否發出Offer。
