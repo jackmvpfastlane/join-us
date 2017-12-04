@@ -4,8 +4,12 @@
 
 Honey 是一家成立於2012年的美國新創公司，核心價值是「幫所有人省錢」，
 目前的主要產品為一個自動幫用戶找到網路上所有折價代碼的[Browser Plugin](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)。
-我們已經有了上百萬的用戶，而且用戶增長還在不斷的加速。目前融資到了C輪，總金額40M USD的階段，預計明年可以IPO.
+我們已經有了上百萬的用戶，而且用戶增長還在不斷的加速。
 
+## Honey 相關報導
+1. [Crunchbase](https://www.crunchbase.com/organization/honey-science), 目前募資狀況為 C 輪 $40.8M USD.
+2. Tech Crunch 報導 [Deal-finding browser tool Honey now tracks Amazon price drops, offers hotel savings](https://techcrunch.com/2017/06/30/deal-finding-browser-tool-honey-now-tracks-amazon-price-drops-offers-hotel-savings/)
+3. Co-founder Ryan Hudson 專訪: [連結](http://www.businessinsider.com/honey-app-ryan-hudson-2017-10)
 
 ## 工作內容
 
